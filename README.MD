@@ -15,4 +15,6 @@ Underline 2
 - formato _italica de la segunda forma_.
 - formato **bold o strong** de la primer forma.
 - formato __bold o strong__ de la segunda forma.
-- formato tachado 
+- formato ~~tachado~~, formato normal.
+- aqui podemos usar *formato italico*, pero tambien 
+**bold** y ~~tachado~~.
