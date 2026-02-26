@@ -36,3 +36,29 @@ Underline 2
 
 # Imagenes
 ![Logo Github](https://iconlogovector.com/uploads/images/2024/04/lg-661b22765e1bf-GitHub.webp)
+
+# Code Snippets
+Codigo en JSON
+```JSON
+[
+ {
+   "title": "apples",
+   "count": [12000, 20000],
+   "description": {"text": "...", "sensitive": false}
+ {,
+ {
+   "title": "oranges",
+   "count": [17500, null],
+   "description": {"text": "...", "sensitive": false}
+	}
+]
+```
+Codigo en Javascript
+```Javascript
+let contador = 0;
+function incrementar() {
+  contador++;
+  console.log("El contador es: " + contador);
+}
+incrementar();
+```
