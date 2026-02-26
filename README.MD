@@ -62,3 +62,9 @@ function incrementar() {
 }
 incrementar();
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Maxi   | Burgos   | 456789    |
+| Tomas  | Tompson  | 4567891   |
