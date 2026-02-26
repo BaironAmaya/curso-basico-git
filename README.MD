@@ -33,3 +33,6 @@ Underline 2
 - <a href="http://www.google.com">Esto es un link HTML</a>
 - [Esto es un link en markdown](http://www.google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Github](https://iconlogovector.com/uploads/images/2024/04/lg-661b22765e1bf-GitHub.webp)
